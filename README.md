@@ -1,11 +1,12 @@
 # 👋 Hey there, I'm Shabbir Hussainy
 
-I'm a **developer**, problem solver, and builder of clean, scalable digital experiences. I love working across the stack, from intuitive UIs to efficient backends, and I'm always exploring new tools and technologies.
+Hey! I’m a developer who loves building cool stuff with code. I am a Computer Science and Engineering student at NIT Surat, graduating in 2027, passionate about data infrastructure and security engineering. I’m always tinkering with new tools and tech — whether it’s web apps, mobile apps, or just fun side projects.
+I’m all about learning, sharing, and collaborating, so feel free to check out my repos and hit me up if you want to work together or just chat about tech!
 
 ## 🚀 Tech Stack
 
 <p align="center" style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" href="https://twitter.com/yourhandle" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
