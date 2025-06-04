@@ -56,12 +56,12 @@ I'm a **developer**, problem solver, and builder of clean, scalable digital expe
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shabbir5152&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabbir5152&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shabbir5152&show_icons=true&theme=tokyonight&hide_border=true" width="45%" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabbir5152&layout=compact&theme=tokyonight&hide_border=true" width="45%" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shabbir5152&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shabbir5152&theme=tokyonight&hide_border=true" width="90%" height="180px"/>
 </p>
 
 
